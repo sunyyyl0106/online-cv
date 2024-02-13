@@ -63,7 +63,7 @@ projects:
     title: Projects
     assignments:
       - title: Differentially Private Machine Learning
-            details: |
+            tagline:
                 - Time: 02/2023 - 08/2023
                 - Location: John Hopcroft Center for Computer Science, SJTU
                 - City: Shanghai
@@ -71,7 +71,7 @@ projects:
                     - Researched on designing efficient and accurate differential privacy strategies to protect sensitive data;
                     - Learned Python programs to extract and analyze data.
       - title: Probabilistic Methods in Eng. Project
-            details: |
+            tagline:
                 - Time: 05/2023 - 08/2023
                 - Location: UM-SJTU Joint Institute
                 - City: Shanghai
@@ -79,7 +79,7 @@ projects:
                     - Apply probability theories and statistics to analyze data;
                     - Process data by Python.
       - title: Optimization of “Jinshan Inquiry Service” – A Mini App of a Smart Community in Fuzhou
-            details: |
+            tagline:
                 - Time: 01/2023 - 01/2023
                 - Location: UM-SJTU Joint Institute
                 - City: Fuzhou
@@ -92,7 +92,7 @@ projects:
                     - Presented the outcomes to the staff of “Jinshan Inquiry Service” company.
             
       - title: 2022 Summer Design Expo
-            details: |
+            tagline:
                 - Time: 05/2022 - 08/2022
                 - Location: UM-SJTU Joint Institute
                 - City: Shanghai
