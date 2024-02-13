@@ -34,7 +34,7 @@ education:
     info:
       - degree: Anticipated Bachelor’s Degree in Data Science
         university: University of Michigan, Ann Arbor
-        time: - 05/2025
+        time: 05/2025
         details: |
             - Related Courses: 
                 - Data Structures and Algorithms (EECS281)
@@ -46,7 +46,7 @@ education:
             -  GPA: 4.0/4.0
       - degree: Anticipated Bachelor’s Degree in Electrical and Computer Engineering 
         university: Shanghai Jiao Tong University
-        time: – 08/2025
+        time: 08/2025
         details: |
             - Related Courses: 
                 - Programming and Elem. Data Structure
@@ -63,24 +63,24 @@ projects:
         location: John Hopcroft Center for Computer Science, SJTU
         city: Shanghai
         tagline:
-            "Researched on designing efficient and accurate differential privacy strategies to protect sensitive data; \\
+            "Researched on designing efficient and accurate differential privacy strategies to protect sensitive data; \\n
              Learned Python programs to extract and analyze data."
       - title: Probabilistic Methods in Eng. Project
         time: 05/2023 - 08/2023
         location: UM-SJTU Joint Institute
         city: Shanghai
         tagline:
-            "Apply probability theories and statistics to analyze data; \\
+            "Apply probability theories and statistics to analyze data; \\n
              Process data by Python."
       - title: Optimization of “Jinshan Inquiry Service” – A Mini App of a Smart Community in Fuzhou
         time: 01/2023 - 01/2023
         location: UM-SJTU Joint Institute
         city: Fuzhou
         tagline: 
-            "Proposed three suggestions for the functions of “Call and Respond” based on computational thinking; \\
-             Applied Machine Learning, TF-IDF, and Multinomial Naive Bayes Classifier to realize automatic classification and assignment of cases; \\
-             Generated pie charts and word cloud to visualize quarterly summary of closed cases; \\
-             Realized quick access to the average time required for each type of case based on historical data; \\
+            "Proposed three suggestions for the functions of “Call and Respond” based on computational thinking; \\n
+             Applied Machine Learning, TF-IDF, and Multinomial Naive Bayes Classifier to realize automatic classification and assignment of cases; \\n
+             Generated pie charts and word cloud to visualize quarterly summary of closed cases; \\n
+             Realized quick access to the average time required for each type of case based on historical data; \\n
              Created a web report for the project; \\
              Presented the outcomes to the staff of “Jinshan Inquiry Service” company."
             
@@ -89,9 +89,9 @@ projects:
         location: UM-SJTU Joint Institute
         city: Shanghai
         tagline:
-            "Designed a prototype of the Mars Water Delivery Rover by SolidWorks; \\
-             Designed and realized a smart water tank by Arduino; \\
-             Shot videos for presenting; \\
+            "Designed a prototype of the Mars Water Delivery Rover by SolidWorks; \\n
+             Designed and realized a smart water tank by Arduino; \\n
+             Shot videos for presenting; \\n
              Presented the design to more than 100 listeners including professors, alumni, and company representatives."
 
 skills:
