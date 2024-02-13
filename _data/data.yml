@@ -274,7 +274,7 @@ skills:
       - name: Differential Privacy
         level: 70%
         
-      - name: Python & Matlab & Latex
+      - name: Python & Matlab 
         level: 90%
 
       - name: JavaScrip & R & SQL
@@ -283,10 +283,10 @@ skills:
       - name: HTML5 & CSS
         level: 70%
 
-      - name: Arduino & Solidworks & Mathematica
+      - name: Arduino & Solidworks & Verilog
         level: 85%
 
-      - name: Microsoft Office
+      - name: Microsoft Office & Latex & Mathematica
         level: 98%
 
 #footer: >
