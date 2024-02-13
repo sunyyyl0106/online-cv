@@ -9,6 +9,7 @@ sidebar:
 
     # Profile information
     name: Yile Sun
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: sunyyyl@umich.edu
@@ -77,10 +78,11 @@ experiences:
         details: |
             - Apply probability theories and statistics to analyze data;
             - Process data by Python.
-      - role: Optimization of “Jinshan Inquiry Service” – A Mini App of a Smart Community in Fuzhou
+      - role: Optimization of “Jinshan Inquiry Service”
         time: 2023-01 - 2023-01
         company: UM-SJTU Joint Institute, Fuzhou
         details: |
+            “Jinshan Inquiry Service”  – A Mini App of a Smart Community in Fuzhou
             - Proposed three suggestions for the functions of “Call and Respond” based on computational thinking;
             - Applied Machine Learning, TF-IDF, and Multinomial Naive Bayes Classifier to realize automatic classification and assignment of cases;
             - Generated pie charts and word cloud to visualize quarterly summary of closed cases;
