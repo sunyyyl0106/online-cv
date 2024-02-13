@@ -66,8 +66,8 @@ sidebar:
 education:
     title: Education
     info:
-      - degree: Data Science – Anticipated Bachelor’s Degree
-        college: College of Engineering
+      - degree: Data Science #– Anticipated Bachelor’s Degree
+        #college: College of Engineering
         university: University of Michigan, Ann Arbor
         time: 08/2023 - 05/2025
         #details: |
@@ -78,8 +78,8 @@ education:
           #pretium quis, sem.
             - Related Courses: Data Structures and Algorithms (EECS281), Intro to Computer Organization (EECS370)
             -  GPA: 4.0/4.0
-      - degree: Electrical and Computer Engineering – Anticipated Bachelor’s Degree
-        college: UM-SJTU Joint Institute
+      - degree: Electrical and Computer Engineering #– Anticipated Bachelor’s Degree
+        #college: UM-SJTU Joint Institute
         university: Shanghai Jiao Tong University
         time: 09/2021 – 08/2025
         #details: |
