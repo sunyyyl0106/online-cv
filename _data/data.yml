@@ -96,7 +96,7 @@ projects:
             - Time: 05/2022 - 08/2022
             - Location: UM-SJTU Joint Institute
             - City: Shanghai
-            - Tasks
+            - Tasks: 
                 - Designed a prototype of the Mars Water Delivery Rover by SolidWorks;
                 - Designed and realized a smart water tank by Arduino;
                 - Shot videos for presenting;
