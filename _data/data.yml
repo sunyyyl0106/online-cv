@@ -194,7 +194,7 @@ projects:
         location: John Hopcroft Center for Computer Science, SJTU
         city: Shanghai
         #link: "#hook"
-        details: | 
+        tagline:
             - Researched on designing efficient and accurate differential privacy strategies to protect sensitive data;
             - Learned Python programs to extract and analyze data.
       - title: Probabilistic Methods in Eng. Project
@@ -202,7 +202,7 @@ projects:
         location: UM-SJTU Joint Institute
         city: Shanghai
         #link: "#"
-        tagline: 
+        tagline:
             - Apply probability theories and statistics to analyze data;
             - Process data by Python.
       - title: Optimization of “Jinshan Inquiry Service” – A Mini App of a Smart Community in Fuzhou
@@ -210,7 +210,7 @@ projects:
         location: UM-SJTU Joint Institute
         city: Fuzhou
         #link: "#"
-        details: | 
+        tagline: 
             - Proposed three suggestions for the functions of “Call and Respond” based on computational thinking;
             - Applied Machine Learning, TF-IDF, and Multinomial Naive Bayes Classifier to realize automatic classification and assignment of cases;
             - Generated pie charts and word cloud to visualize quarterly summary of closed cases;
@@ -223,7 +223,7 @@ projects:
         location: UM-SJTU Joint Institute
         city: Shanghai
         #link: "#"
-        details: | 
+        tagline:
             - Designed a prototype of the Mars Water Delivery Rover by SolidWorks;
             - Designed and realized a smart water tank by Arduino;
             - Shot videos for presenting;
