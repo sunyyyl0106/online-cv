@@ -4,143 +4,265 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Yile Sun
-    # tagline: Full Stack Developer
-    # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Alan Doe
+    tagline: Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: sunyyyl@umich.edu
-    phone: 734-882-7885
-    github: sunyyyl0106
-    
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    timezone: America/Cancun Timezone
+    citizenship:
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    xing: alandoe
+    github: sharu725
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: http://www.africau.edu/images/default/sample.pdf
+
+    languages:
+      title: Languages
+      info:
+        - idiom: English
+          level: Native
+
+        - idiom: French
+          level: Professional
+
+        - idiom: Spanish
+          level: Professional
+
     interests:
       title: Interests
       info:
-        - item: Watercolor
+        - item: Climbing
           link:
 
-        - item: Planting
+        - item: Snowboarding
           link:
 
-        - item: Swimming
+        - item: Cooking
           link:
 
+career-profile:
+    title: Career Profile
+    summary: |
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
     title: Education
     info:
-      - degree: Anticipated Bachelor’s Degree in Data Science
-        university: University of Michigan, Ann Arbor
-        time: 05/2025
+      - degree: MSc in Computer Science
+        university: University of London
+        time: 2011 - 2012
         details: |
-            - Related Courses: 
-                - Data Structures and Algorithms (EECS281)
-                - Intro to Computer Organization (EECS370)
-                - Introduction to Machine Learning (EECS445)
-                - Web Systems (EECS 485)
-                - Quantum Computing for the Computer Scientist (EECS498)
-                - Applied Regression Analysis (EECS413)
-            -  GPA: 4.0/4.0
-      - degree: Anticipated Bachelor’s Degree in Electrical and Computer Engineering 
-        university: Shanghai Jiao Tong University
-        time: 08/2025
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: BSc in Applied Mathematics
+        university: Bristol University
+        time: 2007 - 2011
         details: |
-            - Related Courses: 
-                - Programming and Elem. Data Structure
-                - Probabilistic Methods in Eng
-            - GPA: 3.786/4.0
-            - Scholarship: Outstanding Undergraduate Scholarship for the Year 2023
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
 
+experiences:
+    title: Experiences
+    info:
+      - role: Lead Developer
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo.
+            - Bullet point
+            - Bullet point
+      - role: Senior Software Engineer
+        time: 2014 - 2015
+        company: Google, London
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - role: UI Developer
+        time: 2012 - 2014
+        company: Amazon, London
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+
+certifications:
+      title: Certifications
+      list:
+        - name: CV Builder
+          start: 2020
+          end: 2021
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.google.com
+          credentialname: Google
+          details: |
+            Details about cert. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
+
+            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+            fringilla vel. Ut euismod, sem sed vulputate venenatis,
+            justo diam viverra velit, sed rhoncus leo leo eu justo.
+            Suspendisse placerat risus ante, sed porta nisi blandit at.
+        - name: Git learning
+          start: 2019
+          end:
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.github.com
+          credentialname: Github
+          details: |
+            Older certification. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
     title: Projects
+    intro: >
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Differentially Private Machine Learning
-        time: 02/2023 - 08/2023
-        location: John Hopcroft Center for Computer Science, SJTU
-        city: Shanghai
-        tagline:
-            "Researched on designing efficient and accurate differential privacy strategies to protect sensitive data; \\n
-             Learned Python programs to extract and analyze data."
-      - title: Probabilistic Methods in Eng. Project
-        time: 05/2023 - 08/2023
-        location: UM-SJTU Joint Institute
-        city: Shanghai
-        tagline:
-            "Apply probability theories and statistics to analyze data; \\n
-             Process data by Python."
-      - title: Optimization of “Jinshan Inquiry Service” – A Mini App of a Smart Community in Fuzhou
-        time: 01/2023 - 01/2023
-        location: UM-SJTU Joint Institute
-        city: Fuzhou
-        tagline: 
-            "Proposed three suggestions for the functions of “Call and Respond” based on computational thinking; \\n
-             Applied Machine Learning, TF-IDF, and Multinomial Naive Bayes Classifier to realize automatic classification and assignment of cases; \\n
-             Generated pie charts and word cloud to visualize quarterly summary of closed cases; \\n
-             Realized quick access to the average time required for each type of case based on historical data; \\n
-             Created a web report for the project; \\
-             Presented the outcomes to the staff of “Jinshan Inquiry Service” company."
-            
-      - title: 2022 Summer Design Expo
-        time: 05/2022 - 08/2022
-        location: UM-SJTU Joint Institute
-        city: Shanghai
-        tagline:
-            "Designed a prototype of the Mars Water Delivery Rover by SolidWorks; \\n
-             Designed and realized a smart water tank by Arduino; \\n
-             Shot videos for presenting; \\n
-             Presented the design to more than 100 listeners including professors, alumni, and company representatives."
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+oss:
+    title: OSS Contributions
+    intro: >
+      You can list your open source software contributions in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    contributions:
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C++ & C
+      - name: Python & Django
         level: 98%
-        
-      - name: Python 
-        level: 90%
-        
-      - name: Machine Learning
-        level: 60%
 
-      - name: Differential Privacy
-        level: 70%
-        
-      - name: Matlab 
-        level: 90%
-        
-      - name: JavaScrip
-        level: 65%
+      - name: Javascript & jQuery
+        level: 98%
 
-      - name: R
-        level: 65%
-        
-      - name: SQL
-        level: 65%
+      - name: Angular
+        level: 98%
 
       - name: HTML5 & CSS
-        level: 70%
+        level: 95%
 
-      - name: Arduino
+      - name: Ruby on Rails
         level: 85%
 
-      - name: Solidworks
-        level: 85%
-        
-      - name: Verilog
-        level: 80%
+      - name: Sketch & Photoshop
+        level: 60%
 
-      - name: FPGA
-        level: 80%
-        
-      - name: Microsoft Office
-        level: 98%
-        
-      - name: Latex
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
         level: 98%
         
       - name: Mathematica
