@@ -265,23 +265,29 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: C++ & C
         level: 98%
+        
+      - name: Machine Learning
+        level: 60%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Differential Privacy
+        level: 70%
+        
+      - name: Python & Matlab & Latex
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: JavaScrip & R & SQL
+        level: 65%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 70%
 
-      - name: Ruby on Rails
+      - name: Arduino & Solidworks & Mathematica
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Microsoft Office
+        level: 98%
 
 #footer: >
     #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
