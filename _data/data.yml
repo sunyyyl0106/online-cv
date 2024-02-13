@@ -69,7 +69,7 @@ education:
       - degree: Data Science, College of Engineering – Anticipated Bachelor’s Degree
         university: University of Michigan, Ann Arbor
         time: 08/2023 - 05/2025
-        details: |
+        #details: |
           #Describe your study here lorem ipsum dolor sit amet, consectetuer
           #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           #sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -80,7 +80,7 @@ education:
       - degree: Electrical and Computer Engineering, UM-SJTU Joint Institute – Anticipated Bachelor’s Degree
         university: Shanghai Jiao Tong University
         time: 09/2021 – 08/2025
-        details: |
+        #details: |
           #Describe your study here lorem ipsum dolor sit amet, consectetuer
           #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           #sociis natoque penatibus et magnis dis parturient montes, nascetur
