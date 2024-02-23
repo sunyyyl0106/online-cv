@@ -36,23 +36,20 @@ education:
         university: University of Michigan, Ann Arbor
         time: 2023 - 2025
         details: |
-           # - Related Courses: 
-              #  - Data Structures and Algorithms (EECS281)
-              #  - Intro to Computer Organization (EECS370)
-              #  - Introduction to Machine Learning (EECS445)
-              #  - Web Systems (EECS 485)
-              #  - Quantum Computing for the Computer Scientist (EECS498)
-              #  - Applied Regression Analysis (EECS413)
-               # -  GPA: 4.0/4.0
+            - Related Courses: 
+                - Data Structures and Algorithms (EECS281)
+                - Intro to Computer Organization (EECS370)
+                - Introduction to Machine Learning (EECS445)
+                - Web Systems (EECS 485)
+                - Quantum Computing for the Computer Scientist (EECS498)
+                - Applied Regression Analysis (EECS413)
       - degree: BEng in Electrical and Computer Engineering
         university: Shanghai Jiao Tong University
         time: 2021 - 2025
         details: |
-         #   - Related Courses: 
-              #  - Programming and Elem. Data Structure
-              #  - Probabilistic Methods in Eng
-          # - GPA: 3.786/4.0
-         #  - Scholarship: Outstanding Undergraduate Scholarship for the Year 2023
+            - Related Courses: 
+                - Programming and Elem. Data Structure
+                - Probabilistic Methods in Eng
 
 experiences:
     title: Projects
