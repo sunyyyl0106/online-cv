@@ -43,7 +43,7 @@ education:
                 - Web Systems (EECS 485)
                 - Quantum Computing for the Computer Scientist (EECS498)
                 - Applied Regression Analysis (EECS413)
-            -  GPA: 4.0/4.0
+                -  GPA: 4.0/4.0
       - degree: BEng in Electrical and Computer Engineering
         university: Shanghai Jiao Tong University
         time: 2021 - 2025
@@ -51,8 +51,8 @@ education:
             - Related Courses: 
                 - Programming and Elem. Data Structure
                 - Probabilistic Methods in Eng
-            - GPA: 3.786/4.0
-            - Scholarship: Outstanding Undergraduate Scholarship for the Year 2023
+           - GPA: 3.786/4.0
+           - Scholarship: Outstanding Undergraduate Scholarship for the Year 2023
 
 experiences:
     title: Projects
