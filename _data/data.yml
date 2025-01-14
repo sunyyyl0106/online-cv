@@ -52,15 +52,9 @@ education:
                 - Probabilistic Methods in Eng.
 
 experiences:
-    title: Projects
+    title: Research Experiences
     info:
-      - role: Differentially Private Machine Learning
-        time: 2023-02 - 2023-08
-        company: John Hopcroft Center for Computer Science, SJTU, Shanghai
-        details: |
-            - Reviewed the literature on Machine Unlearning and Differential Privacy.
-            - Participated in group meetings on the design of efficient and accurate differential privacy strategies to protect sensitive data.
-      - role: Machine Learning in Head & Neck Cancer Recurrence and Survival Prediction
+      - role: Head & Neck Cancer Recurrence and Survival Prediction
         time: 2024-09 - 2025-04
         company: Medical School, University of Michigan
         details: |
@@ -68,7 +62,8 @@ experiences:
             - Analyzed different transformer-based architectures and multi-modal networks for medical image segmentation.
             - Conducted recurrence and survival analysis using Cox proportional hazards models in R.
             - Reproduced multi-modality models for survival prediction.
-      - role: Latent BKI Open-Dictionary Continuous Mapping in Visual-Language Latent Spaces with Quantifiable Uncertainty
+      - role: Open-Dictionary Continuous Mapping in Visual-Language Latent Spaces
+      with Quantifiable Uncertainty
         time: 2024-02 - 2024-10
         company: CURLY Lab, University of Michigan
         details: |
@@ -76,6 +71,13 @@ experiences:
             - Contributed to code base modules, including semantic feature extraction with a pre-trained vision language model and GPU-accelerated Principal Component Analysis (PCA).
             - Proposed fair comparison strategies for the baselines and conducted evaluation experiments.
             - Assisted in the Results and Literature Review sections of the research paper.
+      - role: Differentially Private Machine Learning
+        time: 2023-02 - 2023-08
+        company: John Hopcroft Center for Computer Science, SJTU, Shanghai
+        details: |
+            - Reviewed the literature on Machine Unlearning and Differential Privacy.
+            - Participated in group meetings on the design of efficient and accurate differential privacy strategies to protect sensitive data.
+      
 
 
 skills:
