@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: sunyyyl@umich.edu
-    phone: #
+    phone: 7348827885
     github: sunyyyl0106
 
 
@@ -52,7 +52,7 @@ education:
                 - Probabilistic Methods in Eng.
 
 experiences:
-    title: Research Experiences
+    title: Project
     info:   
       - role:  Machine Learning in Head & Neck Cancer Recurrence and Survival Prediction
         time: 2024-09 - Present
@@ -74,8 +74,8 @@ experiences:
         time: 2023-02 - 2023-08
         company: John Hopcroft Center for Computer Science, SJTU, Shanghai
         details: |
-                - Reviewed the literature on Machine Unlearning and Differential Privacy.
-                -  Participated in group meetings on the design of efficient and accurate differential privacy strategies to protect sensitive data.
+            - Reviewed the literature on Machine Unlearning and Differential Privacy.
+            -  Participated in group meetings on the design of efficient and accurate differential privacy strategies to protect sensitive data.
 
 skills:
     title: Skills &amp; Proficiency
