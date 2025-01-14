@@ -58,14 +58,16 @@ experiences:
         time: 2023-02 - 2023-08
         company: John Hopcroft Center for Computer Science, SJTU, Shanghai
         details: |
-            - Reviewed the literature on Machine Unlearning and Differential Privacy
+            - Reviewed the literature on Machine Unlearning and Differential Privacy.
             - Participated in group meetings on the design of efficient and accurate differential privacy strategies to protect sensitive data.
-      - role: Probabilistic Methods in Eng. Project
-        time: 2023-05 - 2023-08
-        company: UM-SJTU Joint Institute, Shanghai
+      - role: Machine Learning in Head & Neck Cancer Recurrence and Survival Prediction
+        time: 2024-09 - 2025-04
+        company: Medical School, University of Michigan
         details: |
-            - Apply probability theories and statistics to analyze data;
-            - Process data by Python.
+            - Reviewed literature on Head and Neck Squamous Cell Carcinoma and Medical Image Computing.
+            - Analyzed different transformer-based architectures and multi-modal networks for medical image segmentation.
+            - Conducted recurrence and survival analysis using Cox proportional hazards models in R.
+            - Reproduced multi-modality models for survival prediction.
       - role: Optimization of “Jinshan Inquiry Service”
         time: 2023-01 - 2023-01
         company: UM-SJTU Joint Institute, Fuzhou
@@ -77,15 +79,6 @@ experiences:
             - Realized quick access to the average time required for each type of case based on historical data;
             - Created a web report for the project;
             - Presented the outcomes to the staff of “Jinshan Inquiry Service” company.
-            
-      - role: 2022 Summer Design Expo
-        time: 2022-05 - 2022-08
-        company: UM-SJTU Joint Institute, Shanghai
-        details: |
-            - Designed a prototype of the Mars Water Delivery Rover by SolidWorks;
-            - Designed and realized a smart water tank by Arduino;
-            - Shot videos for presenting;
-            - Presented the design to more than 100 listeners including professors, alumni, and company representatives.
 
 
 skills:
