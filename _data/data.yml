@@ -54,17 +54,17 @@ education:
 experiences:
     title: Projects
     info:   
-      - role:  Machine Learning in Head & Neck Cancer Recurrence and Survival Prediction
+      - role: Machine Learning in Head & Neck Cancer Recurrence and Survival Prediction
         time: 2024-09 - Present
-        company:  Medical School, University of Michigan
+        company: Medical School, University of Michigan
         details: |
             - Reviewed literature on Head and Neck Squamous Cell Carcinoma and Medical Image Computing.
             - Analyzed different transformer-based architectures and multi-modal networks for medical image segmentation.
             - Conducted recurrence and survival analysis using Cox proportional hazards models in R.
             - Reproduced multi-modality models for survival prediction.
-      - role:  Latent BKI: Open-Dictionary Continuous Mapping in Visual-Language Latent Spaces with Quantifiable Uncertainty
+      - role: Latent BKI: Open-Dictionary Continuous Mapping in Visual-Language Latent Spaces with Quantifiable Uncertainty
         time: 2024-02 - 2024-10
-        company:   CURLY Lab, University of Michigan
+        company: CURLY Lab, University of Michigan
         details: |
             - Generated the MP3D Habitat dataset, collected real-world data using the Azure Kinect DK camera, and developed a data loader.
             - Contributed to code base modules, including semantic feature extraction with a pre-trained vision language model and GPU-accelerated Principal Component Analysis (PCA).
@@ -75,7 +75,7 @@ experiences:
         company: John Hopcroft Center for Computer Science, SJTU, Shanghai
         details: |
             - Reviewed the literature on Machine Unlearning and Differential Privacy.
-            -  Participated in group meetings on the design of efficient and accurate differential privacy strategies to protect sensitive data.
+            - Participated in group meetings on the design of efficient and accurate differential privacy strategies to protect sensitive data.
 
 skills:
     title: Skills &amp; Proficiency
