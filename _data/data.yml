@@ -68,7 +68,7 @@ experiences:
             - Analyzed different transformer-based architectures and multi-modal networks for medical image segmentation.
             - Conducted recurrence and survival analysis using Cox proportional hazards models in R.
             - Reproduced multi-modality models for survival prediction.
-      - role: Latent BKI: Open-Dictionary Continuous Mapping in Visual-Language Latent Spaces with Quantifiable Uncertainty
+      - role: Latent BKI Open-Dictionary Continuous Mapping in Visual-Language Latent Spaces with Quantifiable Uncertainty
         time: 2024-02 - 2024-10
         company: CURLY Lab, University of Michigan
         details: |
